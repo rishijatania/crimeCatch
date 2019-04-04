@@ -1,6 +1,16 @@
 # CrimeCatch
 final-project-weblogix created by GitHub Classroom
 
+**Description**
+
+• Crime Catch was an exciting web-project that was built using Angular at the front-end and NodeJs as the back-end and a shared MongoDB cloud storage.
+
+• The goal of this project was personally inspired being an international student in the United States to help every student or any individuals find a safe area/street while traveling or searching accommodation, etc.
+
+• This was accomplished by first obtaining a crimes data-set for Boston, MA from kaggle.com and then integrating with Angular Google Maps providing filter by crimes or streets.
+
+• Another SOS feature was added using NodeMailer to help individuals to alert its emergency contact providing the current location during any time of crisis. Apart from these, Angular Material Design was used for forms and validations; PassportJS and JWT token for authentication; ChartJS for displaying different types of analysis, NewsAPI for providing result based real-time news feed to the user.
+
 **Citizen**
 
 <table class="tg">
